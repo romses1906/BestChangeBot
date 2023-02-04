@@ -13,7 +13,7 @@
 
 2. Перейти в папку:
 
-`cd parser_bestchange`
+`cd BestChangeBot`
 
 3. Создать и активировать виртуальное окружение Python:
 
